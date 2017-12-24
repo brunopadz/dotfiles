@@ -1,0 +1,8 @@
+alias ll='ls -l'
+alias lla='clear && ls -lha'
+alias dck='docker '
+alias dckps='docker ps'
+alias dckpsa='docker ps -a'
+alias dckimg='docker images'
+alias dckrm='docker rm '
+alias dckrmi='docker rmi '
